@@ -1,0 +1,85 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+.half{
+    width:30%;
+    float:left;
+    margin-left:5%;
+    padding:6%;
+    
+}
+section{
+    height: 700px;
+    
+}
+.half img{
+    width:88%;
+}
+h1{
+    color:orange;
+    font-size: xx-large;
+}
+.link{
+    text-decoration: none;
+    color:white;
+    background-image:linear-gradient(90deg,orange,yellow);
+    padding:2%;
+    border-radius:10px;
+}
+a:hover{
+    color:yellow;
+    background-image:linear-gradient(lightgreen,cyan);
+}
+.top{
+    background-image: url("personal-website/header-bg.png");
+}
+.middle{
+    background-image:url("personal-website/biography-bg.png")
+}
+.third{
+    width:23%;
+    margin: 3%;
+    padding:2%;
+    float:left;
+    box-shadow:grey;
+    
+    
+}
+.client{
+    background-image: url("personal-website/latest-work-bg.png");
+    
+}
+.third img{
+    width: 100%;
+    
+}
+h2{
+    text-align: center;
+    font-size: 900;
+}
+.last{
+    background-image: url("personal-website/footer-bg.png");
+    text-align: center;
+}
+#bold{
+    font-weight: bold;
+}
+.fourth{
+    color:white;
+    background-image: linear-gradient(90deg,salmon,yellow);
+    height:10%;
+    width: 30%;
+    padding: 3%;
+    margin-left: 33%;
+    border-radius: 10px;
+}
+#small{
+    font-size:x-small ;
+}
+span{
+    font-size: xx-large;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+}
